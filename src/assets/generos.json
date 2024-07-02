@@ -1,0 +1,66 @@
+[
+  {
+    "nombre": "Autoayuda",
+    "value" : "autoayuda"
+  },
+  {
+    "nombre": "Biografia",
+    "value" : "biografia"
+  },
+  {
+    "nombre": "Ciencia",
+    "value" : "ciencia"
+  },
+  {
+    "nombre": "Comic",
+    "value" : "comic"
+  },
+  {
+    "nombre": "Cuento",
+    "value" : "cuento"
+  },
+  {
+    "nombre": "Ensayo",
+    "value" : "ensayo"
+  },
+  {
+    "nombre": "Filosofia",
+    "value" : "filosofia"
+  },
+  {
+    "nombre": "Historia",
+    "value" : "historia"
+  },
+  {
+    "nombre": "Infantil",
+    "value" : "infantil"
+  },
+  {
+    "nombre": "Juvenil",
+    "value" : "juvenil"
+  },
+  {
+    "nombre": "Manga",
+    "value" : "manga"
+  },
+  {
+    "nombre": "Novela",
+    "value" : "novela"
+  },
+  {
+    "nombre": "Poesia",
+    "value" : "poesia"
+  },
+  {
+    "nombre": "Politica",
+    "value" : "politica"
+  },
+  {
+    "nombre": "Religion",
+    "value" : "religion"
+  },
+  {
+    "nombre": "Teatro",
+    "value" : "teatro"
+  }
+]

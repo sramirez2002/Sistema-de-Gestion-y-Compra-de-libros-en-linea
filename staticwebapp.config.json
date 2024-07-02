@@ -1,0 +1,72 @@
+{
+  "routes": [
+    {
+      "route": "/",
+      "rewrite": "/index.html"
+    },
+    {
+      "route": "/about",
+      "rewrite": "/index.html"
+    },
+    {
+      "route": "/login",
+      "rewrite": "/index.html"
+    },
+    {
+      "route": "/register",
+      "rewrite": "/index.html"
+    },
+    {
+      "route": "/change-password",
+      "rewrite": "/index.html"
+    },
+    {
+      "route": "/administrator-register",
+      "rewrite": "/index.html"
+    },
+    {
+      "route": "/root",
+      "rewrite": "/index.html"
+    },
+    {
+      "route": "/send-confirmation",
+      "rewrite": "/index.html"
+    },
+    {
+      "route": "/add-book",
+      "rewrite": "/index.html"
+    },
+    {
+      "route": "/edit-book",
+      "rewrite": "/index.html"
+    },
+    {
+      "route": "/recents",
+      "rewrite": "/index.html"
+    },
+    {
+      "route": "/search-book",
+      "rewrite": "/index.html"
+    },
+    {
+      "route": "/credit-card",
+      "rewrite": "/index.html"
+    },
+    {
+      "route": "/payment",
+      "rewrite": "/index.html"
+    },
+    {
+      "route": "/historical",
+      "rewrite": "/index.html"
+    },
+    
+    {
+      "route": "/404",
+      "rewrite": "/index.html"
+    }
+  ],
+  "navigationFallback": {
+    "rewrite": "/index.html"
+  }
+}
